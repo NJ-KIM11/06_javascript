@@ -37,7 +37,7 @@ String = "javascript";
 String = `javascript`;
 
 let string = '작은 따옴표로 감싼 문자열 내의 "큰 따옴표" 는 문자열로 인식';
-string = "큰 따옴표로 감싼 문자열 내의 '작은 따옴표는' 는 문자열로 인식";
+String = "큰 따옴표로 감싼 문자열 내의 '작은 따옴표는' 는 문자열로 인식";
 console.log(String);
 console.log(string);
 
@@ -94,3 +94,4 @@ nullType = null;
 console.log(nullType);
 
 console.log(test === nullType);
+console.log(test == nullType);
