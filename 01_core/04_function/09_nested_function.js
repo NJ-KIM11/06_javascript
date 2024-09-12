@@ -16,5 +16,3 @@ function outer(){
 
 outer();
 console.log(outer());
-console.log("------------------------")
-console.log(inner());

@@ -9,6 +9,7 @@ let dog = {
     // eat : (food) => {
     //     console.log(`${this.name}는 ${food}를 맛있게 먹어요`);
     // }
+    // 화살표 함수는 this 를 가져오지 못한다..
     eat : (name,food) => {
         console.log(`${name}는 ${food}를 맛있게 먹어요`);
     }

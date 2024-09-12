@@ -40,3 +40,4 @@ class test {
 }
 const student5 = new test("이순신", 30, function(){});
 console.log(student5);
+

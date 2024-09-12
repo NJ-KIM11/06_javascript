@@ -41,6 +41,6 @@ class Student4 {
         this.name = name;
         this.age = age;
     }
-};
+}
 const studentA = new Student4("이순신", 30);
 console.log(studentA);

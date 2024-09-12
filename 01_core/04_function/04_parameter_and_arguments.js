@@ -48,3 +48,4 @@ function hi2(name = "아무개"){
 
 result = hi2(5);
 console.log(result);
+

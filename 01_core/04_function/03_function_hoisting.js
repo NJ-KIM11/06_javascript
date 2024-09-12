@@ -38,7 +38,6 @@ function test(){
     console.log("이거 중 어떤게 실행되나?");
 }
 
-console.log(test());
 console.log("-------------------------------------------");
 
 // var 를 사용할 때 함수 표현식의 문제점

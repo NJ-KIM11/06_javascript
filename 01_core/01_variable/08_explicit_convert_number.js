@@ -14,3 +14,4 @@ console.log(parseInt('10'));
 console.log(parseFloat('10'));
 console.log(parseInt('10.01'));
 console.log(parseFloat('10.01'));
+

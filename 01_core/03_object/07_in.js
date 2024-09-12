@@ -21,3 +21,4 @@ for(let key in student){
     console.log(`key : ${key}`);
     console.log(`student[key] : ${student[key]}`);
 }
+

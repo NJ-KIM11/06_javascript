@@ -12,11 +12,6 @@ let calc = function add(a,b){
     return a+b;
 }
 console.log(typeof calc);
-// let calc2 = {
-//     function add(a,b){
-//     return a+b;}
-
-// }
 
 console.log(calc(10,20));
 // console.log(add(10,20));

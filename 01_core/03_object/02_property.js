@@ -10,7 +10,7 @@ console.log(student);
 
 let obj = {
     normal : "normal value",
-    '@ s p a c e' : "space value",
+    '@ s p a c e @' : "space value",
     "":"",
     0:1,
     var : "var",

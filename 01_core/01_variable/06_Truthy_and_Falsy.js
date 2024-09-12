@@ -31,7 +31,7 @@ if(test?.b){
 }else{
     console.log("false");
 }
-// ? 가 있으면 
+// ? 가 있으면 먼저 객체가 존재하는지를 확인
 
 
 test?.b ? console.log(true) : console.log(false);
