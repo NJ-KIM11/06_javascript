@@ -27,14 +27,14 @@
 
         function test(){
             
-            $input = $value.value;
+            const $input = $value.value*10;
             console.log($input);
 
             // width = (inputValue*10);
             // console.log(width);
 
             // $area.style.width += inputValue+"px";
-            let width = parseInt($area.style.width) + $input
+            let width = (parseInt($area.style.width) + $input);
             $area.style.width = `${width}px`;
             console.log($area.style.width)
         }
