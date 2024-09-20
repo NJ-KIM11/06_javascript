@@ -20,7 +20,7 @@ function decrease(value){
 function apply(func, value){
 
     // 콜백 함수는 고차 함수에 의해 호출되며
-    // 이 때 고차 함수는 필요에 따라 콜뱀함수에 인자를 전달할 수 있다..
+    // 이 때 고차 함수는 필요에 따라 콜백함수에 인자를 전달할 수 있다..
     return func(value);
 }
 
